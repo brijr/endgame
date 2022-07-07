@@ -29,6 +29,7 @@
 	},
 	"type": "module",
 	"dependencies": {
-		"appwrite": "^9.0.1"
+		"appwrite": "^9.0.1",
+		"svelte-appwrite": "^0.2.3-beta"
 	}
 }
